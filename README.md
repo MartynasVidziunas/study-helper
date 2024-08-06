@@ -49,7 +49,9 @@ Once the project has started, you'll see the main menu as shown in the image bel
 
 1. Enter 1 to select "Add Question" from the menu.
 2. Choose the question type (quiz or free-form) by entering 1 or 2.
+
 ![add_question](image-1.png)
+
 3. Enter the question text.
 4. Provide the choices and answer for quiz questions or just the answer for free form questions.
 5. When done adding questions type in 3 to save the questions and exit this mode.
@@ -66,8 +68,8 @@ Once the project has started, you'll see the main menu as shown in the image bel
 1. Enter 3 to select "Disable/Enable Questions" from the menu.
 ![toggle_status](image-3.png)
 2. Choose the questions you want to activate or deactivate for practice or test modes by typing its ID.
-3. Enter y and press Enter to confirm your selection.
 ![alt text](image-4.png)
+3. Enter y and press Enter to confirm your selection.
 
 **Practicing:**
 
